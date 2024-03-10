@@ -211,4 +211,4 @@ async def account_login(bot: Client, m: Message):
                await m.reply_text(str(e))
             await m.reply_document(f"{batch}.txt")
     except Exception as e:
-        await m.reply_text(str(e)
+        await m.reply_text(str(e))
