@@ -9,4 +9,4 @@ requests
 helpers
 aiohttp
 aiofiles
-Crypto
+Crypto.Cipher
