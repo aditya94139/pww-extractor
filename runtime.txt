@@ -1,10 +1,1 @@
 python-3.12.1
-pyrogram==2.0.106
-tgcrypto
-cloudscraper
-requests
-urllib3==1.26.15
-pyromod==1.5
-asynco
-requests
-helper
